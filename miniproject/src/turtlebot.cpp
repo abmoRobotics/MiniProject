@@ -3,10 +3,6 @@
 #include <nav_msgs/Odometry.h>
 #include <geometry_msgs/PoseStamped.h>
 #include <geometry_msgs/Twist.h>
-#include <move_base_msgs/MoveBaseGoal.h>
-#include <move_base_msgs/MoveBaseAction.h>
-#include <kobuki_msgs/ButtonEvent.h>
-#include <kobuki_msgs/SensorState.h>
 #include <kobuki_msgs/Led.h>
 #include <std_srvs/Trigger.h>
 #include <sound_play/sound_play.h>
